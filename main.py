@@ -13,7 +13,7 @@ SPACESHIP_WIDTH, SPACESHIP_HEIGHT = 50, 40
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 #WIN is the variable name for the window
 
-pygame.display.set_caption("1st game using pygame")
+pygame.display.set_caption("SpaceFight Shooter")
 #This is to set the title of the window of the game
 
 WHITE = (255, 255, 255)
